@@ -1,0 +1,123 @@
+.text {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+.text1 {
+  position: relative;
+  right: 70px;
+}
+.text2 {
+  position: relative;
+  right: 50px;
+}
+.text3 {
+  position: relative;
+  right: 30px;
+}
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 100px;
+}
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 100px;
+}
+.text-input {
+  width: 500px;
+  border: none;
+  border-radius: 60px;
+  background-color: var(--search-box-bg, rgb(225, 219, 219));
+  height: 50px;
+}
+.search {
+  position: relative;
+  right: 25px;
+}
+.box1 {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  background-color: rgb(204, 221, 22);
+  position: relative;
+  left: 520px;
+  top: 110px;
+}
+.box2 {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  background-color: rgb(42, 184, 32);
+  position: relative;
+  left: 620px;
+  top: 52px;
+}
+.box3 {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  background-color: rgb(15, 204, 233);
+  position: relative;
+  left: 720px;
+  bottom: 9px;
+}
+.box4 {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  background-color: rgb(245, 109, 202);
+  position: relative;
+  left: 820px;
+  bottom: 67px;
+}
+.box5 {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  background-color: rgb(238, 97, 104);
+  position: relative;
+  left: 920px;
+  bottom: 127px;
+}
+
+.icon1 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 22px;
+}
+.icon2 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 22px;
+}
+.icon3 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 22px;
+}
+.icon4 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 22px;
+}
+.icon5 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 22px;
+}
